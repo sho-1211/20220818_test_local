@@ -1,0 +1,9 @@
+{
+    "destinations": [
+        {
+            "name": "srv-api",
+            "url": "https://001e5767trial-dev-node-postgres-sample-srv.cfapps.us10.hana.ondemand.com",
+            "forwardAuthToken": true
+        }
+    ]
+}

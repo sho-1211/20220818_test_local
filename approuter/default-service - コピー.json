@@ -1,0 +1,19 @@
+{
+    "uaa":  {
+		"tenantmode": "dedicated",
+		"sburl": "https://internal-xsuaa.authentication.us10.hana.ondemand.com",
+		"subaccountid": "bd4e0711-a49d-4133-b9cf-5c265739288f",
+		"credential-type": "instance-secret",
+		"clientid": "sb-node-postgres-sample!t93888",
+		"xsappname": "node-postgres-sample!t93888",
+		"clientsecret": "RuRanJVtTomQW7p6PD8uRlB4p5k=",
+		"url": "https://001e5767trial.authentication.us10.hana.ondemand.com",
+		"uaadomain": "authentication.us10.hana.ondemand.com",
+		"verificationkey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA87u/bI+gvrNHD27UWFrQ\nNhVhQWJne2PDFpbMReS5fXWz1+iPvkoG1FRfz3s9zA/C4L83tHBB8bWyHa6SUwXt\nZ12zFEUGfdz/oOfvR1Mql9ItHUeR1NtAnatFyypziG00INWpN1BIpWXTMCtipAdl\n4Xu4qfu2CzDiLZTGoIMg81nuWA5FNjAyz/0ybEkZjnJSvDh+xqUcK8FOYuzjrMXu\n47eEiWQhfAyiRQraFFplbzK0f0Qk3VFatZ+75BmdWAfsgCD/NG00DOY2VcyhtzFb\nJGYbTn9ht3JHj4sK9rtC7b9thl1wzIWNz3u2ETbQwIeUnKd5xM6GJn2Ev+ntSNmb\nZQIDAQAB\n-----END PUBLIC KEY-----",
+		"apiurl": "https://api.authentication.us10.hana.ondemand.com",
+		"identityzone": "001e5767trial",
+		"identityzoneid": "bd4e0711-a49d-4133-b9cf-5c265739288f",
+		"tenantid": "bd4e0711-a49d-4133-b9cf-5c265739288f",
+		"zoneid": "bd4e0711-a49d-4133-b9cf-5c265739288f"
+    }
+}

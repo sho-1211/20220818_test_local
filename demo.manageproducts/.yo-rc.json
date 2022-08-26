@@ -1,0 +1,24 @@
+{
+  "generator-template-ui5-project": {
+    "projectname": "manageproducts",
+    "namespaceUI5": "demo",
+    "enableFPM": false,
+    "platform": "Static webserver",
+    "viewtype": "XML",
+    "ui5libs": "Content delivery network (SAPUI5)",
+    "newdir": true,
+    "codeassist": false,
+    "initrepo": false,
+    "namespaceURI": "demo",
+    "opa5pos": [
+      "Main"
+    ],
+    "opa5Journeys": [
+      "Main"
+    ],
+    "uimodules": [
+      "uimodule"
+    ],
+    "setupCompleted": true
+  }
+}
